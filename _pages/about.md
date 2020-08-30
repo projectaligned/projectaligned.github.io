@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Project Aligned"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ My goal is to build a system that automatically and accurately infers emotional 
 
 @ [Sisu](https://sisudata.com/) 2019-Present:
 -----
-My experiences with large-scale data analysis of experimental data at Rigetti catalyzed an interest in joining an organization focused on data analytics. So I moved to [Sisu Data](https://sisudata.com/). As part of the Product Engineering team there, I built the user-facing side of the platform and deepened my understanding of how people use machine learning to solve business problems. After a few months at Rigetti, I began thinking more deeply about what we choose to optimize and why.
+I joined [Sisu Data](https://sisudata.com/) to learn about data analytics techniques that work. I built the user-facing side of the platform. After a few months at Sisu, I began thinking more deeply about what we choose to optimize and why. I started building a spreadsheet of my own daily behavioral patterns and emotional states in order to understand what actions were correlated with positive and negative outcomes. After carefully aggregating this data for a couple of months I realized two things. The first is that I could actually learn useful insights about behaviors that are correlated with my actions. The second is that gathering the data was time consuming and tedious. 
 
 @ [Rigetti](https://en.wikipedia.org/wiki/Rigetti_Computing) 2017-2019:
 -----
