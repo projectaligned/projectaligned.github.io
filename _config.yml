@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Project Aligned"
 title_separator          : "-"
 name                     : &name "Jonathan Ward"
-description              : &description "Building software tools for introspection and coordination."
+description              : &description "Building Project Aligned"
 url                      : https://projectaligned.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "projectaligned.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jonathan Ward"
   avatar           : "profile.png"
-  bio              : "Building software tools for introspection and coordination. Previously: Physics BA at Harvard, Quantum Computing at Rigetti, Data Analytics at Sisu."
+  bio              : "Building Project Aligned"
   #location         : "Bay Area"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
