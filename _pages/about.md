@@ -14,7 +14,7 @@ My goal is to build a system that automatically and accurately infers emotional 
 
 @ [Sisu](https://sisudata.com/) 2019-Present:
 -----
-I joined [Sisu Data](https://sisudata.com/) to learn about data analytics techniques that work. I built the user-facing side of the platform. After a few months at Sisu, I began thinking more deeply about what we choose to optimize and why. I started building a spreadsheet of my own daily behavioral patterns and emotional states in order to understand what actions were correlated with positive and negative outcomes. After carefully aggregating this data for a couple of months I realized two things. The first is that I could actually learn useful insights about behaviors that are correlated with my actions. The second is that gathering the data was time consuming and tedious. 
+I joined [Sisu Data](https://sisudata.com/) to learn about data analytics techniques that work. I built the user-facing side of the platform. After a few months at Sisu, I began thinking more deeply about what we choose to optimize and why. I started building a spreadsheet of my daily behavioral patterns and emotional states to understand their correlations. After gathering and analyzing data manually for a couple of months, I decided to build a system.
 
 @ [Rigetti](https://en.wikipedia.org/wiki/Rigetti_Computing) 2017-2019:
 -----
@@ -22,4 +22,4 @@ I joined [Rigetti Computing](https://en.wikipedia.org/wiki/Rigetti_Computing) to
 
 @ [Harvard](https://kirkland.harvard.edu/home) Graduated 2017:
 -----
-I earned a BA in physics at Harvard, where I studied [Topological Insulators](https://en.wikipedia.org/wiki/Topological_insulator) with the [Yacoby Group](http://yacoby.physics.harvard.edu/) resulting in [publication](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.085151). I also worked at the [Center for Quantum Devices](https://qdev.nbi.ku.dk/research/topological_quantum_systems/) looking for [Majorana Fermions](https://en.wikipedia.org/wiki/Majorana_fermion) in order to build a [Topological Quantum Computer](https://en.wikipedia.org/wiki/Topological_quantum_computer). 
+I earned a BA in physics at Harvard, where I studied [Topological Insulators](https://en.wikipedia.org/wiki/Topological_insulator) with the [Yacoby Group](http://yacoby.physics.harvard.edu/) resulting in [publication](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.085151). I also worked at the [Center for Quantum Devices](https://qdev.nbi.ku.dk/research/topological_quantum_systems/) looking for [Majorana Fermions](https://en.wikipedia.org/wiki/Majorana_fermion) to build a [Topological Quantum Computer](https://en.wikipedia.org/wiki/Topological_quantum_computer). 
