@@ -1,7 +1,7 @@
 ---
 title: 'Automatic Quantum Defect Detection'
-date: 2020-08-31
-permalink: /posts/2020/08/automatic_quantum_defect_detection/
+date: 2020-08-30
+permalink: /posts/2020/08/automatic-quantum-defect-detection/
 tags:
   - quantum
   - statistics
