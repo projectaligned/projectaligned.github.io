@@ -1,6 +1,6 @@
 ---
-title: "Generalized Tic-Tac-Toe environment for Deep Reinforcement Learning."
-excerpt: "A Deep Reinforcement Learning environment using generalized tic-tac-toe.<br/><img src='/images/mnk.png'>"
+title: "MNK game environment for Deep RL."
+excerpt: "A Deep Reinforcement Learning environment using generalized tic-tac-toe, known as the mnk game.<hr/><br/><br/><img src='/images/mnk.png'>"
 collection: portfolio
 ---
 
