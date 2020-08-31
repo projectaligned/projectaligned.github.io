@@ -18,7 +18,7 @@ I joined [Sisu Data](https://sisudata.com/) to learn about data analytics techni
 
 @ [Rigetti](https://en.wikipedia.org/wiki/Rigetti_Computing) 2017-2019:
 -----
-I joined [Rigetti Computing](https://en.wikipedia.org/wiki/Rigetti_Computing) to build a useful quantum computer. I started by working on ([QAOA](https://arxiv.org/abs/1411.4028)), resulting in a [conference talk](https://meetings.aps.org/Meeting/MAR18/Session/R15.7) and a [paper](https://arxiv.org/abs/1712.05771). After a year, I realized that hardware limited algorithms research. I then started developing software tools to improve hardware fabrication and reduce [defects](https://ai.googleblog.com/2018/08/understanding-performance-fluctuations.html). I built tools for [online changepoint detection](https://pypi.org/project/chchanges/#history) and statistical model selection to automatically detect these defects.
+I joined [Rigetti Computing](https://en.wikipedia.org/wiki/Rigetti_Computing) to build a useful quantum computer. I started by working on quantum algorithms, specifically [QAOA](https://arxiv.org/abs/1411.4028), resulting in a [conference talk](https://meetings.aps.org/Meeting/MAR18/Session/R15.7) and a [paper](https://arxiv.org/abs/1712.05771). After a year, I realized that hardware limited algorithms research. I then started developing software tools to improve hardware fabrication and reduce [defects](https://ai.googleblog.com/2018/08/understanding-performance-fluctuations.html). I built tools for [online changepoint detection](https://pypi.org/project/chchanges/#history) and statistical model selection to automatically detect these defects.
 
 @ [Harvard](https://kirkland.harvard.edu/home) Graduated 2017:
 -----
