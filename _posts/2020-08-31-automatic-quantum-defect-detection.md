@@ -9,7 +9,6 @@ tags:
 ---
 
 _This post is excerpted from my response to a fellowship application asking me to describe a challenging software system that I built._
------
 
 On the Quantum Software Team at Rigetti Computing, I was responsible for building software that measured and calibrated the quantum computer. One of the primary challenges that we faced was maintaining the stability of the quantum computer. Over time, quantum defects would appear that disrupted qubits. Once disrupted, these qubits were no longer available to our users, and once enough defects accumulated, we had to take the entire quantum computer offline. These defects plagued every approach to superconductor-based quantum computing, affecting Rigetti, Google, and IBM. 
 
