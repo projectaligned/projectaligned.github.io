@@ -1,10 +1,9 @@
 ---
-title: 'Deep Learning and Affective Computing'
-date: 2020-09-01
-permalink: /posts/2020/09/deep-learning-and-affective-computing/
+title: 'My Productivity System'
+date: 2020-10-01
+permalink: /posts/2020/10/my-productivity-system/
 tags:
-  - affective-computing
-  - deep-learning
+  - productivity
 ---
 
 _This post is part of my project to post every day in October - it is consequently very rough and needs editing._
