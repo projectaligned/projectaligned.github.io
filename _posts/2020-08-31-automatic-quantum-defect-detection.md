@@ -6,6 +6,7 @@ tags:
   - quantum
   - statistics
   - software
+  - open-ai
 ---
 
 _This post is excerpted from my response to the Open AI Scholars application asking me to describe a challenging software system that I built._

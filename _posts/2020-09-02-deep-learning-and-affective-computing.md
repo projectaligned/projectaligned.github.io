@@ -5,6 +5,7 @@ permalink: /posts/2020/09/deep-learning-and-affective-computing/
 tags:
   - affective-computing
   - deep-learning
+  - open-ai
 ---
 
 _This post is excerpted from my response to the Open AI Scholars application asking why I want to study deep learning._
