@@ -42,8 +42,8 @@ I have chosen a subset of tasks to complete within the next two weeks.
 
 * I plan to develop a big-picture view of my project by reading "Learning to Summarize from Human Feedback" and discussing it with one of the paper's authors.
 * I plan to complete my understanding of Proximal Policy Optimization by doing the following:
-* Reading chapter three of John Schulman's thesis so that I can understand Trust Region Policy Optimization. I read chapters one and two this past week.
+  * Reading chapter three of John Schulman's thesis so that I can understand Trust Region Policy Optimization. I read chapters one and two this past week.
   * Reading the Generalized Advantage Estimators Paper
   * Reading the Proximal Policy Optimization Paper
-  * I plan to blog twice a week, highlighting interesting statistical details in the papers I read.
-  * I plan to start studying transformers by learning about autoregressive models from the first two lectures of the UC Berkeley graduate class on Deep Unsupervised Learning.
+* I plan to blog twice a week, highlighting interesting statistical details in the papers I read.
+* I plan to start studying transformers by learning about autoregressive models from the first two lectures of the UC Berkeley graduate class on Deep Unsupervised Learning.
