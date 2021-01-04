@@ -34,15 +34,15 @@ Ultimately I should have spent more time testing out the simple ideas at the cor
 # On Problem Selection
 
 While I believe in choosing simple steps at each stage of solving the problem, I believe that the problem itself must also be worth solving.
-This points towards a picking an ambitious problem. Choosing a visionary problem has the added benefit that it provides more motivation.  
-The challenge then becomes reconciling the necessarily small solution steps with the necessarily big problem. One strategy is to find a sequence  
-of simpler approximations, such that the insights from the easier problems still transfer to the harder problems. This is the dominant strategy in  
+This points towards a picking an ambitious problem. Choosing a visionary problem has the added benefit that it provides more motivation.
+The challenge then becomes reconciling the necessarily small solution steps with the necessarily big problem. One strategy is to find a sequence
+of simpler approximations, such that the insights from the easier problems still transfer to the harder problems. This is the dominant strategy in
 physics, where research often consists of solving model systems where complexities are represented as perturbations. A guiding principle in physics is the
 idea that the more complex theory must also capture the properties of the simpler theory in a certain limit. In this way, quantum mechanics encapsulates classical mechanics
 in the [high action limit](https://en.wikipedia.org/wiki/Classical_limit), and general relativity encapsulates Newtonian gravity in the [limit of slow speeds and weak gravitation](https://en.wikipedia.org/wiki/Newtonian_limit).
 Though physics is of course different from AI research, with the recent exploration of scaling laws for transformer models, it appears that a new focus on how to transfer insights
 across problem scales has emerged.
 
-In conclusion, I have not quite figured out the best way of subdividing a big problem into smaller problems that can be tackled incrementally,  
+In conclusion, I have not quite figured out the best way of subdividing a big problem into smaller problems that can be tackled incrementally,
 but I will write more when I learn more. In the meantime, its just one new plot a day.
 
