@@ -31,3 +31,20 @@ tags:
        - This is based on the idea that the language model itself learns something about human preference from the training data, and when a prompt is given in the right way, the language model can express those human preferences.
        - One speculative hypothesis that I have is that a sufficiently large and well-trained language model actually would not need an additional reward model, because it could accurately infer what humans prefer based on the training data alone.
 
+# Introduction
+
+Large Language Models are the most important research topic in machine learning today.
+Recent work explains how their performance grows with increasing scale.
+Scientists at many companies continue to build larger models, with increasing financial investment.
+Simultaneously, researchers seek to better control these language models, both in general and for specific tasks.
+Recent work demonstrates that human preferences can feed reward models that shape the generated language.
+However, gathering these human preferences is expensive.
+These two trends together suggest the following questions:
+1. Can one learn human preferences to train a reward model without having humans in the loop? How do these "offline" human preferences compare to "online" human preferences?
+2. What is the best way of allocating resources between training a reward model and training a generative model? Does this change as the total resources available change? Is there a limit in which the reward model becomes redundant and the language model is sufficient on its own?
+
+These related questions drive the following projects that I plan on pursuing:
+1. Extracting Human Preferences from upvotes on websites.
+2. Extracting Human Preferences from natural text tasks.
+3. Turning Human Preferences into natural language.
+I will discuss each of these ideas in turn.
