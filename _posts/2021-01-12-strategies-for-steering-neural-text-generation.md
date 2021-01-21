@@ -34,7 +34,7 @@ tags:
        - One speculative hypothesis that I have is that a sufficiently large and well-trained language model actually would not need an additional reward model, because it could accurately infer what humans prefer based on the training data alone.
 -->
 
-# Introduction
+# The Control Problem
 
 Large Language Models are the most important research topic in machine learning today.
 Systems like GPT-3 and their multimodal counterparts command both scientific and popular attention.
