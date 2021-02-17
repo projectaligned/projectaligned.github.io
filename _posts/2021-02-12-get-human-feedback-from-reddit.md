@@ -26,7 +26,8 @@ It looks as if someone went to great lengths to decorate it to look like you liv
 
 ```
 “I’m crazy,” I say, “You shouldn’t have made me look like the antiques dealer.”“Well, I suppose that’s the way things are,” she shrugs. 
-“But no,” she says, “we aren’t crazy here. We’re just here, to honour you.”I want to argue with her, but I can’t, not when her voice breaks me. 
+“But no,” she says, “we aren’t crazy here. We’re just here, to honour you.” 
+I want to argue with her, but I can’t, not when her voice breaks me. 
 I want to tell her everything, but the truth is I only have so much time.“I was there when the whole thing happened. 
 It’s weird; I know this house has special powers. Like there’s magic in it. And that’s what makes us so special. 
 I can see what will happen if I choose right.”I don’t even know how I chose, or why I chose to not save her. 
